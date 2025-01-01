@@ -1,5 +1,5 @@
 # JEE5 - Frontend (React Native)
-
+<img src="https://i.ibb.co/NCZNHrB/icon.png" alt="JEE5 Logo" width="128" height="128" />
 JEE5 is a revolutionary app designed to transform the JEE preparation experience into something as interactive and engaging as social media platforms like Instagram. This app aims to provide:
 
 - **Community Interaction:** Connect with peers, share insights, and build a supportive network.
